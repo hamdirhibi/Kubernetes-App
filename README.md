@@ -1,4 +1,4 @@
-# Kubernates-App
+# Kubernetes-App
 <p style="text-align: center;">
   <img src="./assets/images/screenshot.png"/>
 </p>
