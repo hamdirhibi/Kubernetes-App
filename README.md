@@ -3,8 +3,7 @@
   <img src="./assets/images/screenshot.png"/>
 </p>
 
-## 🎉 Project Keywords  ?
-
+## 🎉 Project Keywords 
 
 - Deployment .
 - Services . 
@@ -15,7 +14,7 @@
 - Sharing env variables between pods . 
 
 
-## 📋 Architecture  ?
+## 📋 Architecture  
 
 <p style="text-align: center;">
   <img src="./assets/images/archtiecture.png"/>
