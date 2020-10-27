@@ -3,15 +3,15 @@
   <img src="./assets/images/screenshot.png"/>
 </p>
 
-## 🎉 What i used in this project  ?
+## 🎉 Project Keywords  ?
 
 
-- deployment .
+- Deployment .
 - Services . 
 - Secret. 
 - ConfigMap . 
 - External Services (Load Balancer) . 
-- docker images (mongo and mongo-express) . 
+- Docker images (mongo and mongo-express) . 
 - Sharing env variables between pods . 
 
 
